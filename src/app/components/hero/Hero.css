@@ -1,0 +1,6 @@
+.hero-container{
+    background: url(../../../../public/assets/img/mrrobotbg.jpeg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
