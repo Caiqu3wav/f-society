@@ -4,3 +4,7 @@
     background-size: cover;
     background-repeat: no-repeat;
   }
+
+  .hero-content-1{
+    background-color: rgba(63, 62, 62, 0.514);
+  }
